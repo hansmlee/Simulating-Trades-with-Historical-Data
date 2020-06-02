@@ -1,2 +1,3 @@
 # -Simulating-Trades-with-Historical-Data
- Build a fairly realistic back-tester and perform portfolio optimization that includes transaction costs.
+- Combine signals on a random forest for enhanced alpha. 
+- Solve the problem of overlapping samples using the end of day from Quotemedia and sector data from Sharadar
